@@ -1,0 +1,6 @@
+{
+    "parent": "wepmechanics:item/handheldpole",
+    "textures": {
+        "layer0": "wepmechanics:item/diamond_spear"
+    }
+}

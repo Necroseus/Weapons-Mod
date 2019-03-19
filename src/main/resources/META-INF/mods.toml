@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[24,)"
+authors="Necroseus"
+
+[[mods]]
+modId="wepmechanics"
+version="0.1"
+displayName="Necroseus' Weapon Mechanics"
+description='''
+Yeet
+'''
+
+[[dependencies.wepmechanics]]
+	modId="forge"
+	mandatory=true
+	versionRange="[25,)"
+	ordering="NONE"
+	side="BOTH"
+[[dependencies.wepmechanics]]
+	modId="minecraft"
+	mandatory=true
+	versionRange="[1.13.2]"
+	ordering="NONE"
+	side="BOTH"
